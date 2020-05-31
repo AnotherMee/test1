@@ -1,1 +1,1 @@
-
+(slurp "cust.txt")
